@@ -1,4 +1,4 @@
-# Nanobot Harness
+# Nanobot Cindy Plugin
 
 > 将本机安装的 `nanobot` 接入 Cindy，作为 Cindy 任务执行引擎（Harness / ACP）。
 
